@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="331"/>
+		<item key="DIALOG_Y_ORIGIN" value="144"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/poshs/eclipse-workspace/Selenium"/>
+			<item value="/home/poshs/eclipse-workspace/PomPageFactory"/>
+			<item value="/home/poshs/eclipse-workspace/PomProject"/>
+			<item value="/home/poshs/eclipse-workspace/Polymorphism"/>
+			<item value="/home/poshs/eclipse-workspace/OOP"/>
+			<item value="/home/poshs/eclipse-workspace/Methods"/>
+			<item value="/home/poshs/eclipse-workspace/Interview"/>
+			<item value="/home/poshs/eclipse-workspace/Inheritence"/>
+			<item value="/home/poshs/eclipse-workspace/Encapsulation"/>
+			<item value="/home/poshs/eclipse-workspace/9. JavaNew"/>
+			<item value="/home/poshs/eclipse-workspace/8. Collections"/>
+			<item value="/home/poshs/eclipse-workspace/7. String_Study"/>
+			<item value="/home/poshs/eclipse-workspace/6. Array_Study"/>
+			<item value="/home/poshs/eclipse-workspace/5. Generalization"/>
+			<item value="/home/poshs/eclipse-workspace/4. Casting"/>
+			<item value="/home/poshs/eclipse-workspace/3. Access_Specifier"/>
+			<item value="/home/poshs/eclipse-workspace/2. If_else_While_for_loop"/>
+			<item value="/home/poshs/eclipse-workspace/1. Simple_Program"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

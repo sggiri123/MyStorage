@@ -1,0 +1,25 @@
+package String_Study;
+
+public class Repeat_Char {
+
+	public static void main(String[] args) {
+		
+		String s = "Shridhar";
+		
+		char [] a = s.toCharArray();
+		
+		for (int i = 0; i<a.length; i++)
+		{
+		   for (int j = i+1; j<a.length; j++)
+		   {
+			   if (a[i]==a[j])
+			   {
+				   System.out.print(a[j]);
+			   }
+		   }
+		}
+		System.out.println(a.length);
+
+	}
+
+}
